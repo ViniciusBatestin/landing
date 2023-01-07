@@ -1,0 +1,22 @@
+.banner-info h1, p {
+    margin: 0;
+  }
+  
+  .banner {
+    padding: 150px 0px;
+    background-image: linear-gradient(135deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 90%);
+    display: flex;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 20px;
+  }
+  
+  .banner h1, p {
+    color: white;
+  }
+  
+  .banner p {
+    margin-bottom: 20px;
+    font-weight: lighter;
+  }

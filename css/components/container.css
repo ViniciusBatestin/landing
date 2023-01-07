@@ -1,0 +1,15 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  
+  .cards {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  

@@ -1,0 +1,26 @@
+footer {
+    background-color: lightblue;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .list-inline {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .list-inline li {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  .list-inline i {
+    font-size: 40px;
+  }
+  
+  .footer-info p, i {
+    color: white;
+  }
